@@ -6,6 +6,7 @@ function App() {
     <div className="gray-background">      
       <img src={logo} alt="logo" />
       <h2>리액트 공부하기 익숙해지기</h2>    
+      <h2>git 은 또 뭐야</h2>
     </div>
   );
 }
